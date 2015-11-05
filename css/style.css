@@ -1,0 +1,35 @@
+*	{
+	box-sizing: border-box;
+}
+
+.square	{
+	background-color: #E7504B;
+	color: white;
+	
+	width: 300px;
+	height: 300px;
+	padding: 20px;
+
+	border-width: 25px;
+	border-style: solid;
+	border-color: #000;
+
+	margin: 40px;
+}
+
+.modified	{
+	box-sizing: border-box;
+}
+
+.drill	{
+	background-color: #99FF99;
+
+	height: 400px;
+	width: 400px;
+	margin: 5px;
+}
+
+.drill2	{
+	background-color: #999;
+	border: solid 2px #FF6600;
+}
